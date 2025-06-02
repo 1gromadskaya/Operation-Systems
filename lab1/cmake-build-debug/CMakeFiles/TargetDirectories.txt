@@ -1,0 +1,11 @@
+D:/Operation-Systems/lab1/cmake-build-debug/CMakeFiles/Main.dir
+D:/Operation-Systems/lab1/cmake-build-debug/CMakeFiles/Creator.dir
+D:/Operation-Systems/lab1/cmake-build-debug/CMakeFiles/Reporter.dir
+D:/Operation-Systems/lab1/cmake-build-debug/CMakeFiles/TestRunner.dir
+D:/Operation-Systems/lab1/cmake-build-debug/CMakeFiles/Main_CXX23.dir
+D:/Operation-Systems/lab1/cmake-build-debug/CMakeFiles/Creator_CXX23.dir
+D:/Operation-Systems/lab1/cmake-build-debug/CMakeFiles/Reporter_CXX23.dir
+D:/Operation-Systems/lab1/cmake-build-debug/CMakeFiles/TestRunner_CXX23.dir
+D:/Operation-Systems/lab1/cmake-build-debug/CMakeFiles/test.dir
+D:/Operation-Systems/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Operation-Systems/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
